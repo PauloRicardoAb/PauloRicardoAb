@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Paulo Abreu
+# 👨🏻‍💻 Paulo Ricardo Oliveira Abreu
 
 **`Desenvolvedor FullStack`**
 
