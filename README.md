@@ -55,8 +55,7 @@ Me chamo Paulo Ricardo Oliveira Abreu, tenho 19 anos e moro na Capital de São P
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
 
